@@ -1,0 +1,24 @@
+---
+tier: 3
+term: "man-in-the-middle"
+related_terms:
+    - None
+definition: "N/A"
+use_context: "N/A"
+recommendation: "Consider replacement"
+
+recommended_replacements:
+    - Adversary-in-the-middle attack
+    - Interceptor attack
+    - Intermediary attack
+
+unsuitable_replacements:
+    - None
+
+rationale: |
+    When an attacker secretly intercepts and relays communications between two systems or people who believe that they are communicating directly with each other. Gendered language that can perpetuate bias and stereotypes. Implies that women do not have the skills to perpetrate this type of hacking.
+status: | 
+    N/A
+supporting_content: | 
+    N/A
+

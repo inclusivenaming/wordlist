@@ -1,0 +1,43 @@
+---
+tier: 1
+term: "cripple"
+related_terms:
+    - crippled
+    - crippleware
+definition: "N/A"
+use_context: "N/A"
+recommendation: "Adopt immediately."
+
+recommended_replacements:
+    - Impacted
+    - Degraded
+    - Restricted
+    - Immobilized
+
+unsuitable_replacements:
+    - None
+
+rationale: |
+    The terms cripple, crippled, and crippleware are sometimes used in writing about software or computer systems. These terms are rarely, if ever, used in software itself. These terms are used to indicate the following:
+
+    - To limit functionality in software or to degrade performance of a system 
+    - An organization that is impacted, such as by a security breach`
+
+    The term is ableist, that is, a pejorative term for people with physical disabilities.
+
+    Example usage of recommended replacements:
+
+    - Crippled performance speed
+        - Impacted
+        - Degraded
+    - Crippled functionality
+        - Restricted
+    - Security issues cripple an organization
+        - Impacted
+        - Immobilized
+    - Crippleware
+        - Software with restricted functionality
+status: | 
+    N/A
+supporting_content: | 
+    N/A
